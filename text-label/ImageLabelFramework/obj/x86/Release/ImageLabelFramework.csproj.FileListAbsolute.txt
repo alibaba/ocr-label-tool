@@ -1,0 +1,76 @@
+D:\Project\Image Label Framework\ImageLabelFramework_Poly_V2.0_txt\ImageLabelFramework\bin\Release\ImageLabelFramework.exe
+D:\Project\Image Label Framework\ImageLabelFramework_Poly_V2.0_txt\ImageLabelFramework\bin\Release\ImageLabelFramework.pdb
+D:\Project\Image Label Framework\ImageLabelFramework_Poly_V2.0_txt\ImageLabelFramework\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Project\Image Label Framework\ImageLabelFramework_Poly_V2.0_txt\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.MainForm.resources
+D:\Project\Image Label Framework\ImageLabelFramework_Poly_V2.0_txt\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.Properties.Resources.resources
+D:\Project\Image Label Framework\ImageLabelFramework_Poly_V2.0_txt\ImageLabelFramework\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Project\Image Label Framework\ImageLabelFramework_Poly_V2.0_txt\ImageLabelFramework\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Project\Image Label Framework\ImageLabelFramework_Poly_V2.0_txt\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.exe
+D:\Project\Image Label Framework\ImageLabelFramework_Poly_V2.0_txt\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.pdb
+C:\Users\feiyu.gfy\Desktop\ImageLabelFramework_Poly_V2.0_txt\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.exe
+C:\Users\feiyu.gfy\Desktop\ImageLabelFramework_Poly_V2.0_txt\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.pdb
+C:\Users\feiyu.gfy\Desktop\ImageLabelFramework_Poly_V2.0_txt\ImageLabelFramework\bin\Release\ImageLabelFramework.exe
+C:\Users\feiyu.gfy\Desktop\ImageLabelFramework_Poly_V2.0_txt\ImageLabelFramework\bin\Release\ImageLabelFramework.pdb
+C:\Users\feiyu.gfy\Desktop\ImageLabelFramework_Poly_V2.0_txt\ImageLabelFramework\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\feiyu.gfy\Desktop\ImageLabelFramework_Poly_V2.0_txt\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.MainForm.resources
+C:\Users\feiyu.gfy\Desktop\ImageLabelFramework_Poly_V2.0_txt\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.Properties.Resources.resources
+C:\Users\feiyu.gfy\Desktop\ImageLabelFramework_Poly_V2.0_txt\ImageLabelFramework\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\feiyu.gfy\Desktop\ImageLabelFramework_Poly_V2.0_txt\ImageLabelFramework\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\ibm\Desktop\ImageLabelFramework_Poly_V2.0_txt\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.exe
+C:\Users\ibm\Desktop\ImageLabelFramework_Poly_V2.0_txt\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.pdb
+C:\Users\ibm\Desktop\ImageLabelFramework_Poly_V2.0_txt\ImageLabelFramework\bin\Release\ImageLabelFramework.exe
+C:\Users\ibm\Desktop\ImageLabelFramework_Poly_V2.0_txt\ImageLabelFramework\bin\Release\ImageLabelFramework.pdb
+C:\Users\ibm\Desktop\ImageLabelFramework_Poly_V2.0_txt\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.MainForm.resources
+C:\Users\ibm\Desktop\ImageLabelFramework_Poly_V2.0_txt\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.Properties.Resources.resources
+C:\Users\ibm\Desktop\ImageLabelFramework_Poly_V2.0_txt\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.csproj.GenerateResource.Cache
+C:\Users\ibm\Desktop\ImageLabelFramework_Poly_V2.0_txt\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.csprojResolveAssemblyReference.cache
+C:\Users\ibm\Desktop\ImageLabelFramework_Poly_V2.0_txt\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.Zoom.resources
+C:\Users\feiyu.gfy\Desktop\ImageLabelFramework_Poly_V3.0\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.exe
+C:\Users\feiyu.gfy\Desktop\ImageLabelFramework_Poly_V3.0\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.pdb
+C:\Users\feiyu.gfy\Desktop\ImageLabelFramework_Poly_V3.0\ImageLabelFramework\bin\Release\ImageLabelFramework.exe
+C:\Users\feiyu.gfy\Desktop\ImageLabelFramework_Poly_V3.0\ImageLabelFramework\bin\Release\ImageLabelFramework.pdb
+C:\Users\feiyu.gfy\Desktop\ImageLabelFramework_Poly_V3.0\ImageLabelFramework\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\feiyu.gfy\Desktop\ImageLabelFramework_Poly_V3.0\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.MainForm.resources
+C:\Users\feiyu.gfy\Desktop\ImageLabelFramework_Poly_V3.0\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.Properties.Resources.resources
+C:\Users\feiyu.gfy\Desktop\ImageLabelFramework_Poly_V3.0\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.Zoom.resources
+C:\Users\feiyu.gfy\Desktop\ImageLabelFramework_Poly_V3.0\ImageLabelFramework\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\feiyu.gfy\Desktop\ImageLabelFramework_Poly_V3.0\ImageLabelFramework\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\feiyu.gfy\Desktop\work\ImageLabelFramework_Poly_V3.0\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.exe
+C:\Users\feiyu.gfy\Desktop\work\ImageLabelFramework_Poly_V3.0\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.pdb
+C:\Users\feiyu.gfy\Desktop\work\ImageLabelFramework_Poly_V3.0\ImageLabelFramework\bin\Release\ImageLabelFramework.exe
+C:\Users\feiyu.gfy\Desktop\work\ImageLabelFramework_Poly_V3.0\ImageLabelFramework\bin\Release\ImageLabelFramework.pdb
+C:\Users\feiyu.gfy\Desktop\work\ImageLabelFramework_Poly_V3.0\ImageLabelFramework\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\feiyu.gfy\Desktop\work\ImageLabelFramework_Poly_V3.0\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.MainForm.resources
+C:\Users\feiyu.gfy\Desktop\work\ImageLabelFramework_Poly_V3.0\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.Properties.Resources.resources
+C:\Users\feiyu.gfy\Desktop\work\ImageLabelFramework_Poly_V3.0\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.Zoom.resources
+C:\Users\feiyu.gfy\Desktop\work\ImageLabelFramework_Poly_V3.0\ImageLabelFramework\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\feiyu.gfy\Desktop\work\ImageLabelFramework_Poly_V3.0\ImageLabelFramework\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\feiyu.gfy\Desktop\work\BigPic\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.exe
+C:\Users\feiyu.gfy\Desktop\work\BigPic\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.pdb
+C:\Users\feiyu.gfy\Desktop\work\BigPic\ImageLabelFramework\bin\Release\ImageLabelFramework.exe
+C:\Users\feiyu.gfy\Desktop\work\BigPic\ImageLabelFramework\bin\Release\ImageLabelFramework.pdb
+C:\Users\feiyu.gfy\Desktop\work\BigPic\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.MainForm.resources
+C:\Users\feiyu.gfy\Desktop\work\BigPic\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.Properties.Resources.resources
+C:\Users\feiyu.gfy\Desktop\work\BigPic\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.Zoom.resources
+C:\Users\feiyu.gfy\Desktop\work\BigPic\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.csprojResolveAssemblyReference.cache
+C:\Users\feiyu.gfy\Desktop\work\BigPic\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.csproj.GenerateResource.Cache
+D:\data\work\BigPic\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.exe
+D:\data\work\BigPic\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.pdb
+D:\data\work\BigPic\ImageLabelFramework\bin\Release\ImageLabelFramework.exe
+D:\data\work\BigPic\ImageLabelFramework\bin\Release\ImageLabelFramework.pdb
+D:\data\work\BigPic\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.csprojResolveAssemblyReference.cache
+D:\data\work\BigPic\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.MainForm.resources
+D:\data\work\BigPic\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.Properties.Resources.resources
+D:\data\work\BigPic\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.Zoom.resources
+D:\data\work\BigPic\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.csproj.GenerateResource.Cache
+D:\data\work\文字框加内容标注\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.exe
+D:\data\work\文字框加内容标注\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.pdb
+D:\data\work\文字框加内容标注\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.csprojResolveAssemblyReference.cache
+D:\data\work\文字框加内容标注\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.MainForm.resources
+D:\data\work\文字框加内容标注\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.Properties.Resources.resources
+D:\data\work\文字框加内容标注\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.Zoom.resources
+D:\data\work\文字框加内容标注\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.csproj.GenerateResource.Cache
+D:\data\work\文字框加内容标注\ImageLabelFramework\bin\Release\ImageLabelFramework.exe
+D:\data\work\文字框加内容标注\ImageLabelFramework\bin\Release\ImageLabelFramework.pdb
+C:\Users\zhibo.yzb\Desktop\文字框加内容标注\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.exe
+C:\Users\zhibo.yzb\Desktop\文字框加内容标注\ImageLabelFramework\obj\x86\Release\ImageLabelFramework.pdb
